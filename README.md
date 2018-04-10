@@ -1,4 +1,4 @@
-# vue-component
+# 一个图片放大镜功能
 
 /*
   @@@ imageZoomUrl 图片的url
